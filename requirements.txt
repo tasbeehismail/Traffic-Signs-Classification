@@ -1,0 +1,10 @@
+pandas
+matplotlib
+tensorflow
+opencv-python
+opencv-contrib-python
+keras-preprocessing
+scikit-learn
+seaborn
+notebook
+numpy
