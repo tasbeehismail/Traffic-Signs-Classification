@@ -1,7 +1,7 @@
 
 # Traffic Signs Classification 
 
-This repository is part of our final project for the Computer Vision Lab. My team and I developed this project by researching deep learning techniques, specifically CNNs, to classify traffic sign images using TensorFlow, Keras, and OpenCV.
+This repository is part of our final project for the Computer Vision Lab. My team and I developed this project by researching deep learning techniques, specifically CNNs, to classify traffic sign images using TensorFlow, Keras, and OpenCV. The code and its explanation are based on the approach shown in this [video](https://youtu.be/SWaYRyi0TTs?si=UIuLbZiHAv04QPoB).
 #### Setup Instructions
 
 1. **Clone the repository:**
